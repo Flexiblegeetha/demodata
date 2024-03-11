@@ -10,6 +10,10 @@
 
 This data analysis project aims to rpovide the insights into the sales performance of the e-commerce in the company ovet the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data driven recommendations and gain the knolwedge of the company performance.
 
+![Dashboard](bar plot.png)
+
+![bar plot](https://github.com/Flexiblegeetha/demodata/assets/135847672/877bfdc9-0e06-4187-823f-c68a5ed3f01c)
+
 ### Data Source
 
 Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
